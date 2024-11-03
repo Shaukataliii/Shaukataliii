@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaukat Ali Khan
 
-I’m an aspiring **Machine Learning Engineer**, focused on **Generative AI** and solving traditional challenges with **Machine Learning**, **Deep Learning**, and **NLP**. I enjoy building purposeful projects that simplify complex processes and aim to drive innovation, automation, and productivity in businesses and beyond.
+I’m an aspiring **Applied AI Engineer** focused on crafting clean, scalable solutions using Machine Learning and Generative AI. My focus is on addressing traditional challenges using the latest techniques. I take pride in building purposeful projects that not only solve problems but also simplify complex processes, ultimately driving innovation, automation, and productivity.
 
 ### 🌟 Freelance Projects
 - **Audit Helper**: A Python package leveraging ChatGPT-4 to audit PDF files by extracting and cross-checking data with CSVs.
