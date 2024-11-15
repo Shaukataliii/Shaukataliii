@@ -3,6 +3,8 @@
 I’m an aspiring **Applied AI Engineer** focused on crafting clean, scalable solutions using Machine Learning and Generative AI. My focus is on addressing traditional challenges using the latest techniques. I take pride in building purposeful projects that not only solve problems but also simplify complex processes, ultimately driving innovation, automation, and productivity.
 
 ### 🌟 Freelance Projects
+- **Interview Optimizer**: Real-time interview optimizer leveraging AI to analyze conversations and provide actionable feedback for improved interview performance.
+- **Invoice Processor**: OpenAI GPT-4-based invoice processor that handles random formats, performs OCR, and saves extracted data in a CSV file with optimal cost saving.
 - **Audit Helper**: A Python package leveraging ChatGPT-4 to audit PDF files by extracting and cross-checking data with CSVs.
 - **Medical Data Helper**: Uses OpenCV to detect checkboxes filled by patients and extract relevant medical history details.
 
@@ -27,10 +29,11 @@ I aim to become a proficient ML Engineer specializing in **model building**, **R
 - **WhatsApp Chat Analysis**: Analyzes WhatsApp chat files using exploratory data analysis (EDA) techniques.
 
 ### 📚 Courses & Certifications
-- **Python, ML, DL, NLP, Gen AI** from various platforms (Krish Naik, CampusX, etc.)
+- **Python, ML, DL, NLP, Gen AI** from various platforms (Krish Naik, CampusX, Robert C. Martin, ArjanCodes etc.)
 - **AI Basics Course** by Irfan Malik (CEO of Xeven Solutions Ltd)
-- **Advanced AI Course** by Irfan Malik (In Progress)
 - **Prompt Engineering** by Andrew NG | Deeplearning.ai
+- **Advanced AI Course** by Irfan Malik (In Progress)
+- **Langchain - Chat with your data" by Harrison Chase on Deeplearning.ai
 - **Data Analytics and Business Intelligence** - DigiSkills
 - **Communication and Soft Skills** - DigiSkills
 
